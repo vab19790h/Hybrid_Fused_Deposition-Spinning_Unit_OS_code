@@ -1,0 +1,419 @@
+02:06:55.419 -> ⸮Starting...
+02:06:56.419 -> Homing Z-axis..
+02:06:56.419 -> Homing Z-axis Complete
+02:06:56.419 -> Homing X-axis..
+02:06:57.123 -> Homing X-axis Complete
+02:06:57.123 -> Homing Y-axis..
+02:07:00.827 -> Homing Y-axis complete
+02:07:17.904 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:07:17.904 -> Length of the FD: 40 | Number of spirals: 6
+02:07:21.040 -> Seconds_per_total_length: 2.17 | Measured linear speed in mm/sec: 18.46
+02:07:23.212 -> Seconds_per_total_length: 2.17 | Measured linear speed in mm/sec: 18.46
+02:07:25.400 -> Seconds_per_total_length: 2.17 | Measured linear speed in mm/sec: 18.46
+02:07:27.573 -> Seconds_per_total_length: 2.17 | Measured linear speed in mm/sec: 18.46
+02:07:29.745 -> Seconds_per_total_length: 2.17 | Measured linear speed in mm/sec: 18.46
+02:07:31.917 -> Seconds_per_total_length: 2.17 | Measured linear speed in mm/sec: 18.46
+02:07:31.917 -> Homing Z-axis..
+02:07:31.917 -> Homing Z-axis Complete
+02:14:39.202 -> ZStarting...
+02:14:40.203 -> Homing Z-axis..
+02:14:40.203 -> Homing Z-axis Complete
+02:14:40.203 -> Homing X-axis..
+02:14:41.000 -> Homing X-axis Complete
+02:14:41.000 -> Homing Y-axis..
+02:14:44.744 -> Homing Y-axis complete
+02:14:55.903 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:14:55.903 -> Length of the FD: 40 | Number of spirals: 6
+02:14:59.155 -> Seconds_per_total_length: 2.23 | Measured linear speed in mm/sec: 17.92
+02:15:01.389 -> Seconds_per_total_length: 2.23 | Measured linear speed in mm/sec: 17.92
+02:15:03.624 -> Seconds_per_total_length: 2.23 | Measured linear speed in mm/sec: 17.92
+02:15:05.857 -> Seconds_per_total_length: 2.23 | Measured linear speed in mm/sec: 17.92
+02:15:08.078 -> Seconds_per_total_length: 2.23 | Measured linear speed in mm/sec: 17.92
+02:15:10.304 -> Seconds_per_total_length: 2.23 | Measured linear speed in mm/sec: 17.92
+02:15:10.304 -> Homing Z-axis..
+02:15:10.351 -> Homing Z-axis Complete
+02:15:26.982 -> ZStarting...
+02:15:27.967 -> Homing Z-axis..
+02:15:27.967 -> Homing Z-axis Complete
+02:15:27.967 -> Homing X-axis..
+02:15:28.405 -> Homing X-axis Complete
+02:15:28.405 -> Homing Y-axis..
+02:15:32.078 -> Homing Y-axis complete
+02:15:37.297 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:15:37.297 -> Length of the FD: 40 | Number of spirals: 6
+02:15:40.587 -> Seconds_per_total_length: 2.30 | Measured linear speed in mm/sec: 17.42
+02:15:42.884 -> Seconds_per_total_length: 2.30 | Measured linear speed in mm/sec: 17.42
+02:15:45.149 -> Seconds_per_total_length: 2.30 | Measured linear speed in mm/sec: 17.42
+02:15:47.494 -> Seconds_per_total_length: 2.30 | Measured linear speed in mm/sec: 17.42
+02:15:49.775 -> Seconds_per_total_length: 2.30 | Measured linear speed in mm/sec: 17.42
+02:15:52.042 -> Seconds_per_total_length: 2.30 | Measured linear speed in mm/sec: 17.42
+02:15:52.042 -> Homing Z-axis..
+02:15:52.042 -> Homing Z-axis Complete
+02:16:07.620 -> ~Starting...
+02:16:08.604 -> Homing Z-axis..
+02:16:08.604 -> Homing Z-axis Complete
+02:16:08.604 -> Homing X-axis..
+02:16:08.933 -> Homing X-axis Complete
+02:16:08.933 -> Homing Y-axis..
+02:16:12.631 -> Homing Y-axis complete
+02:16:22.802 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:16:22.802 -> Length of the FD: 40 | Number of spirals: 6
+02:16:26.174 -> Seconds_per_total_length: 2.36 | Measured linear speed in mm/sec: 16.95
+02:16:28.550 -> Seconds_per_total_length: 2.36 | Measured linear speed in mm/sec: 16.95
+02:16:30.912 -> Seconds_per_total_length: 2.36 | Measured linear speed in mm/sec: 16.95
+02:16:33.240 -> Seconds_per_total_length: 2.36 | Measured linear speed in mm/sec: 16.95
+02:16:35.598 -> Seconds_per_total_length: 2.36 | Measured linear speed in mm/sec: 16.95
+02:16:37.959 -> Seconds_per_total_length: 2.36 | Measured linear speed in mm/sec: 16.95
+02:16:37.959 -> Homing Z-axis..
+02:16:37.959 -> Homing Z-axis Complete
+02:17:09.008 -> ZStarting...
+02:17:10.019 -> Homing Z-axis..
+02:17:10.019 -> Homing Z-axis Complete
+02:17:10.019 -> Homing X-axis..
+02:17:10.339 -> Homing X-axis Complete
+02:17:10.339 -> Homing Y-axis..
+02:17:14.079 -> Homing Y-axis complete
+02:17:24.199 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:17:24.199 -> Length of the FD: 40 | Number of spirals: 6
+02:17:27.628 -> Seconds_per_total_length: 2.42 | Measured linear speed in mm/sec: 16.50
+02:17:30.059 -> Seconds_per_total_length: 2.42 | Measured linear speed in mm/sec: 16.50
+02:17:32.468 -> Seconds_per_total_length: 2.42 | Measured linear speed in mm/sec: 16.50
+02:17:34.879 -> Seconds_per_total_length: 2.42 | Measured linear speed in mm/sec: 16.50
+02:17:37.309 -> Seconds_per_total_length: 2.42 | Measured linear speed in mm/sec: 16.50
+02:17:39.758 -> Seconds_per_total_length: 2.42 | Measured linear speed in mm/sec: 16.50
+02:17:39.758 -> Homing Z-axis..
+02:17:39.758 -> Homing Z-axis Complete
+02:18:01.588 -> ⸮Starting...
+02:18:02.569 -> Homing Z-axis..
+02:18:02.569 -> Homing Z-axis Complete
+02:18:02.569 -> Homing X-axis..
+02:18:03.158 -> Homing X-axis Complete
+02:18:03.158 -> Homing Y-axis..
+02:18:06.899 -> Homing Y-axis complete
+02:18:18.058 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:18:18.058 -> Length of the FD: 40 | Number of spirals: 6
+02:18:21.579 -> Seconds_per_total_length: 2.49 | Measured linear speed in mm/sec: 16.07
+02:18:24.038 -> Seconds_per_total_length: 2.49 | Measured linear speed in mm/sec: 16.07
+02:18:26.528 -> Seconds_per_total_length: 2.49 | Measured linear speed in mm/sec: 16.07
+02:18:29.038 -> Seconds_per_total_length: 2.49 | Measured linear speed in mm/sec: 16.07
+02:18:31.528 -> Seconds_per_total_length: 2.49 | Measured linear speed in mm/sec: 16.07
+02:18:34.008 -> Seconds_per_total_length: 2.49 | Measured linear speed in mm/sec: 16.07
+02:18:34.008 -> Homing Z-axis..
+02:18:34.008 -> Homing Z-axis Complete
+02:18:51.988 -> HStarting...
+02:18:52.988 -> Homing Z-axis..
+02:18:52.988 -> Homing Z-axis Complete
+02:18:52.988 -> Homing X-axis..
+02:18:53.248 -> Homing X-axis Complete
+02:18:53.248 -> Homing Y-axis..
+02:18:56.968 -> Homing Y-axis complete
+02:19:14.618 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:19:14.618 -> Length of the FD: 40 | Number of spirals: 6
+02:19:18.198 -> Seconds_per_total_length: 2.55 | Measured linear speed in mm/sec: 15.66
+02:19:20.738 -> Seconds_per_total_length: 2.55 | Measured linear speed in mm/sec: 15.66
+02:19:23.298 -> Seconds_per_total_length: 2.55 | Measured linear speed in mm/sec: 15.66
+02:19:25.828 -> Seconds_per_total_length: 2.55 | Measured linear speed in mm/sec: 15.66
+02:19:28.388 -> Seconds_per_total_length: 2.55 | Measured linear speed in mm/sec: 15.66
+02:19:30.977 -> Seconds_per_total_length: 2.55 | Measured linear speed in mm/sec: 15.66
+02:19:30.977 -> Homing Z-axis..
+02:19:30.977 -> Homing Z-axis Complete
+02:19:56.907 -> ~Starting...
+02:19:57.907 -> Homing Z-axis..
+02:19:57.907 -> Homing Z-axis Complete
+02:19:57.907 -> Homing X-axis..
+02:19:58.028 -> Homing X-axis Complete
+02:19:58.028 -> Homing Y-axis..
+02:20:01.768 -> Homing Y-axis complete
+02:20:04.857 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:20:04.857 -> Length of the FD: 40 | Number of spirals: 6
+02:20:08.478 -> Seconds_per_total_length: 2.62 | Measured linear speed in mm/sec: 15.28
+02:20:11.078 -> Seconds_per_total_length: 2.62 | Measured linear speed in mm/sec: 15.28
+02:20:13.718 -> Seconds_per_total_length: 2.62 | Measured linear speed in mm/sec: 15.28
+02:20:16.337 -> Seconds_per_total_length: 2.62 | Measured linear speed in mm/sec: 15.28
+02:20:18.957 -> Seconds_per_total_length: 2.62 | Measured linear speed in mm/sec: 15.28
+02:20:21.568 -> Seconds_per_total_length: 2.62 | Measured linear speed in mm/sec: 15.28
+02:20:21.568 -> Homing Z-axis..
+02:20:21.568 -> Homing Z-axis Complete
+02:21:04.357 -> ZStarting...
+02:21:05.367 -> Homing Z-axis..
+02:21:05.367 -> Homing Z-axis Complete
+02:21:05.367 -> Homing X-axis..
+02:21:05.527 -> Homing X-axis Complete
+02:21:05.527 -> Homing Y-axis..
+02:21:09.247 -> Homing Y-axis complete
+02:21:25.433 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:21:25.433 -> Length of the FD: 40 | Number of spirals: 6
+02:21:29.118 -> Seconds_per_total_length: 2.68 | Measured linear speed in mm/sec: 14.91
+02:21:31.823 -> Seconds_per_total_length: 2.68 | Measured linear speed in mm/sec: 14.91
+02:21:34.507 -> Seconds_per_total_length: 2.68 | Measured linear speed in mm/sec: 14.91
+02:21:37.158 -> Seconds_per_total_length: 2.68 | Measured linear speed in mm/sec: 14.91
+02:21:39.858 -> Seconds_per_total_length: 2.68 | Measured linear speed in mm/sec: 14.91
+02:21:42.547 -> Seconds_per_total_length: 2.68 | Measured linear speed in mm/sec: 14.91
+02:21:42.547 -> Homing Z-axis..
+02:21:42.547 -> Homing Z-axis Complete
+02:22:09.112 -> ⸮Starting...
+02:22:10.112 -> Homing Z-axis..
+02:22:10.112 -> Homing Z-axis Complete
+02:22:10.112 -> Homing X-axis..
+02:22:10.188 -> Homing X-axis Complete
+02:22:10.188 -> Homing Y-axis..
+02:22:13.897 -> Homing Y-axis complete
+02:22:31.127 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:22:31.127 -> Length of the FD: 40 | Number of spirals: 6
+02:22:34.878 -> Seconds_per_total_length: 2.75 | Measured linear speed in mm/sec: 14.56
+02:22:37.648 -> Seconds_per_total_length: 2.75 | Measured linear speed in mm/sec: 14.56
+02:22:40.387 -> Seconds_per_total_length: 2.75 | Measured linear speed in mm/sec: 14.56
+02:22:43.128 -> Seconds_per_total_length: 2.75 | Measured linear speed in mm/sec: 14.56
+02:22:45.878 -> Seconds_per_total_length: 2.75 | Measured linear speed in mm/sec: 14.56
+02:22:48.607 -> Seconds_per_total_length: 2.75 | Measured linear speed in mm/sec: 14.56
+02:22:48.607 -> Homing Z-axis..
+02:22:48.607 -> Homing Z-axis Complete
+02:23:05.058 -> ZStarting...
+02:23:06.037 -> Homing Z-axis..
+02:23:06.037 -> Homing Z-axis Complete
+02:23:06.037 -> Homing X-axis..
+02:23:06.157 -> Homing X-axis Complete
+02:23:06.157 -> Homing Y-axis..
+02:23:09.867 -> Homing Y-axis complete
+02:23:17.707 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:23:17.707 -> Length of the FD: 40 | Number of spirals: 6
+02:23:21.547 -> Seconds_per_total_length: 2.81 | Measured linear speed in mm/sec: 14.23
+02:23:24.337 -> Seconds_per_total_length: 2.81 | Measured linear speed in mm/sec: 14.23
+02:23:27.157 -> Seconds_per_total_length: 2.81 | Measured linear speed in mm/sec: 14.23
+02:23:29.987 -> Seconds_per_total_length: 2.81 | Measured linear speed in mm/sec: 14.23
+02:23:32.787 -> Seconds_per_total_length: 2.81 | Measured linear speed in mm/sec: 14.23
+02:23:35.618 -> Seconds_per_total_length: 2.81 | Measured linear speed in mm/sec: 14.23
+02:23:35.618 -> Homing Z-axis..
+02:23:35.618 -> Homing Z-axis Complete
+02:23:47.107 -> ⸮Starting...
+02:23:48.127 -> Homing Z-axis..
+02:23:48.127 -> Homing Z-axis Complete
+02:23:48.127 -> Homing X-axis..
+02:23:48.237 -> Homing X-axis Complete
+02:23:48.237 -> Homing Y-axis..
+02:23:51.957 -> Homing Y-axis complete
+02:24:09.797 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:24:09.797 -> Length of the FD: 40 | Number of spirals: 6
+02:24:13.707 -> Seconds_per_total_length: 2.88 | Measured linear speed in mm/sec: 13.91
+02:24:16.577 -> Seconds_per_total_length: 2.88 | Measured linear speed in mm/sec: 13.91
+02:24:19.447 -> Seconds_per_total_length: 2.88 | Measured linear speed in mm/sec: 13.91
+02:24:22.307 -> Seconds_per_total_length: 2.88 | Measured linear speed in mm/sec: 13.91
+02:24:25.217 -> Seconds_per_total_length: 2.88 | Measured linear speed in mm/sec: 13.91
+02:24:28.077 -> Seconds_per_total_length: 2.88 | Measured linear speed in mm/sec: 13.91
+02:24:28.077 -> Homing Z-axis..
+02:24:28.077 -> Homing Z-axis Complete
+02:24:56.457 -> ZStarting...
+02:24:57.467 -> Homing Z-axis..
+02:24:57.467 -> Homing Z-axis Complete
+02:24:57.467 -> Homing X-axis..
+02:24:57.697 -> Homing X-axis Complete
+02:24:57.697 -> Homing Y-axis..
+02:25:01.407 -> Homing Y-axis complete
+02:25:17.337 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:25:17.337 -> Length of the FD: 40 | Number of spirals: 6
+02:25:21.276 -> Seconds_per_total_length: 2.94 | Measured linear speed in mm/sec: 13.61
+02:25:24.226 -> Seconds_per_total_length: 2.94 | Measured linear speed in mm/sec: 13.61
+02:25:27.177 -> Seconds_per_total_length: 2.94 | Measured linear speed in mm/sec: 13.61
+02:25:30.102 -> Seconds_per_total_length: 2.94 | Measured linear speed in mm/sec: 13.61
+02:25:33.077 -> Seconds_per_total_length: 2.94 | Measured linear speed in mm/sec: 13.61
+02:25:36.016 -> Seconds_per_total_length: 2.94 | Measured linear speed in mm/sec: 13.61
+02:25:36.016 -> Homing Z-axis..
+02:25:36.016 -> Homing Z-axis Complete
+02:25:45.897 -> ZStarting...
+02:25:46.917 -> Homing Z-axis..
+02:25:46.917 -> Homing Z-axis Complete
+02:25:46.917 -> Homing X-axis..
+02:25:47.037 -> Homing X-axis Complete
+02:25:47.037 -> Homing Y-axis..
+02:25:50.367 -> Homing Y-axis complete
+02:25:56.147 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:25:56.147 -> Length of the FD: 40 | Number of spirals: 6
+02:26:00.147 -> Seconds_per_total_length: 3.00 | Measured linear speed in mm/sec: 13.31
+02:26:03.156 -> Seconds_per_total_length: 3.00 | Measured linear speed in mm/sec: 13.31
+02:26:06.136 -> Seconds_per_total_length: 3.00 | Measured linear speed in mm/sec: 13.31
+02:26:09.157 -> Seconds_per_total_length: 3.00 | Measured linear speed in mm/sec: 13.31
+02:26:12.176 -> Seconds_per_total_length: 3.00 | Measured linear speed in mm/sec: 13.31
+02:26:15.157 -> Seconds_per_total_length: 3.00 | Measured linear speed in mm/sec: 13.31
+02:26:15.157 -> Homing Z-axis..
+02:26:15.157 -> Homing Z-axis Complete
+02:26:23.597 -> ZStarting...
+02:26:24.576 -> Homing Z-axis..
+02:26:24.576 -> Homing Z-axis Complete
+02:26:24.576 -> Homing X-axis..
+02:26:24.651 -> Homing X-axis Complete
+02:26:24.651 -> Homing Y-axis..
+02:26:27.006 -> Homing Y-axis complete
+02:28:04.107 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:28:04.107 -> Length of the FD: 40 | Number of spirals: 6
+02:28:08.176 -> Seconds_per_total_length: 3.07 | Measured linear speed in mm/sec: 13.04
+02:28:11.236 -> Seconds_per_total_length: 3.07 | Measured linear speed in mm/sec: 13.04
+02:28:14.286 -> Seconds_per_total_length: 3.07 | Measured linear speed in mm/sec: 13.04
+02:28:17.386 -> Seconds_per_total_length: 3.07 | Measured linear speed in mm/sec: 13.04
+02:28:20.426 -> Seconds_per_total_length: 3.07 | Measured linear speed in mm/sec: 13.04
+02:28:23.526 -> Seconds_per_total_length: 3.07 | Measured linear speed in mm/sec: 13.04
+02:28:23.526 -> Homing Z-axis..
+02:28:23.526 -> Homing Z-axis Complete
+02:28:37.887 -> ZStarting...
+02:28:38.896 -> Homing Z-axis..
+02:28:38.896 -> Homing Z-axis Complete
+02:28:38.896 -> Homing X-axis..
+02:28:39.076 -> Homing X-axis Complete
+02:28:39.076 -> Homing Y-axis..
+02:28:42.797 -> Homing Y-axis complete
+02:28:46.176 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:28:46.176 -> Length of the FD: 30 | Number of spirals: 2
+02:28:49.477 -> Seconds_per_total_length: 2.30 | Measured linear speed in mm/sec: 13.04
+02:28:51.786 -> Seconds_per_total_length: 2.30 | Measured linear speed in mm/sec: 13.04
+02:28:51.786 -> Homing Z-axis..
+02:28:51.786 -> Homing Z-axis Complete
+02:29:05.016 -> ZStarting...
+02:29:06.016 -> Homing Z-axis..
+02:29:06.016 -> Homing Z-axis Complete
+02:29:06.016 -> Homing X-axis..
+02:29:06.096 -> Homing X-axis Complete
+02:29:06.096 -> Homing Y-axis..
+02:29:09.796 -> Homing Y-axis complete
+02:29:12.346 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:29:12.346 -> Length of the FD: 30 | Number of spirals: 2
+02:29:15.737 -> Seconds_per_total_length: 2.35 | Measured linear speed in mm/sec: 12.77
+02:29:18.086 -> Seconds_per_total_length: 2.35 | Measured linear speed in mm/sec: 12.77
+02:29:18.086 -> Homing Z-axis..
+02:29:18.086 -> Homing Z-axis Complete
+02:29:25.496 -> +Starting...
+02:29:26.481 -> Homing Z-axis..
+02:29:26.481 -> Homing Z-axis Complete
+02:29:26.481 -> Homing X-axis..
+02:29:26.557 -> Homing X-axis Complete
+02:29:26.557 -> Homing Y-axis..
+02:29:28.326 -> Homing Y-axis complete
+02:29:31.726 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:29:31.726 -> Length of the FD: 30 | Number of spirals: 2
+02:29:35.147 -> Seconds_per_total_length: 2.40 | Measured linear speed in mm/sec: 12.51
+02:29:37.516 -> Seconds_per_total_length: 2.40 | Measured linear speed in mm/sec: 12.51
+02:29:37.516 -> Homing Z-axis..
+02:29:37.516 -> Homing Z-axis Complete
+02:29:50.886 -> ⸮Starting...
+02:29:51.892 -> Homing Z-axis..
+02:29:51.892 -> Homing Z-axis Complete
+02:29:51.892 -> Homing X-axis..
+02:29:51.966 -> Homing X-axis Complete
+02:29:51.966 -> Homing Y-axis..
+02:29:55.696 -> Homing Y-axis complete
+02:29:58.306 -> ////////////////////    Spiral program is Initiated   \\\\\\\\\\\\\\
+02:29:58.306 -> Length of the FD: 30 | Number of spirals: 2
+02:30:01.754 -> Seconds_per_total_length: 2.45 | Measured linear speed in mm/sec: 12.26
+02:30:04.226 -> Seconds_per_total_length: 2.45 | Measured linear speed in mm/sec: 12.26
+02:30:04.226 -> Homing Z-axis..
+02:30:04.226 -> Homing Z-axis Complete
+
+
+
+
+///////////////////////////////////////////////				SUCCESS				\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+02:38:35.076 -> ⸮Starting...
+02:38:36.077 -> Homing Z-axis..
+02:38:36.077 -> Homing Z-axis Complete
+02:38:36.077 -> Homing X-axis..
+02:38:36.171 -> Homing X-axis Complete
+02:38:36.171 -> Homing Y-axis..
+02:38:39.885 -> Homing Y-axis complete
+02:38:45.621 -> /////////////////Linear speed: program is Initiated   \\\\\\\\\\\\\\
+02:38:45.621 -> 
+02:38:45.621 ->  Length of the FD: 30 | Number of spirals: 2 | Calculated Delay to relate Linear speed: 615
+02:38:49.615 -> Seconds_per_total_length: 3.00 | Measured linear speed in mm/sec: 9.99
+02:38:52.611 -> Seconds_per_total_length: 3.00 | Measured linear speed in mm/sec: 9.99
+02:38:52.611 -> Homing Z-axis..
+02:38:52.611 -> Homing Z-axis Complete
+
+
+
+
+
+
+
+
+
+02:41:15.062 -> ⸮Starting...
+02:41:16.055 -> Homing Z-axis..
+02:41:16.055 -> Homing Z-axis Complete
+02:41:16.055 -> Homing X-axis..
+02:41:16.055 -> Homing X-axis Complete
+02:41:16.055 -> Homing Y-axis..
+02:41:16.665 -> Homing Y-axis complete
+02:41:22.432 -> ////////////////////    Spiral prograte Linear speed: \\\\\\\\\\\\\\
+02:41:22.432 -> 
+02:41:22.432 ->  Input Linear speed: 5
+02:41:22.432 ->  Length of the FD: 30 | Number of spirals: 2 | Calculated Delay to relate Linear speed: 1245
+02:41:29.481 -> Seconds_per_total_length: 6.04 | Measured linear speed in mm/sec: 4.96
+02:41:35.537 -> Seconds_per_total_length: 6.04 | Measured linear speed in mm/sec: 4.96
+02:41:35.537 -> Homing Z-axis..
+02:41:35.537 -> Homing Z-axis Complete
+02:41:50.708 -> ⸮Starting...
+02:41:51.700 -> Homing Z-axis..
+02:41:51.700 -> Homing Z-axis Complete
+02:41:51.700 -> Homing X-axis..
+02:41:52.087 -> Homing X-axis Complete
+02:41:52.087 -> Homing Y-axis..
+02:41:55.784 -> Homing Y-axis complete
+02:41:58.777 -> ////////////////////    Spiral program is Initr speed: \\\\\\\\\\\\\
+02:41:58.777 -> 
+02:41:58.777 ->  Input Linear speed: 15
+02:41:58.777 ->  Length of the FD: 30 | Number of spirals: 2 | Calculated Delay to relate Linear speed: 407
+02:42:01.738 -> Seconds_per_total_length: 2.00 | Measured linear speed in mm/sec: 15.02
+02:42:03.754 -> Seconds_per_total_length: 2.00 | Measured linear speed in mm/sec: 15.02
+02:42:03.754 -> Homing Z-axis..
+02:42:03.754 -> Homing Z-axis Complete
+02:42:34.694 -> ZStarting...
+02:42:35.709 -> Homing Z-axis..
+02:42:35.709 -> Homing Z-axis Complete
+02:42:35.709 -> Homing X-axis..
+02:42:35.803 -> Homing X-axis Complete
+02:42:35.803 -> Homing Y-axis..
+02:42:39.507 -> Homing Y-axis complete
+02:42:50.865 -> ////////////////////    Spiral programte Linear speed: \\\\\\\\\\\\\
+02:42:50.865 -> 
+02:42:50.865 ->  Input Linear speed: 20
+02:42:50.865 ->  Length of the FD: 30 | Number of spirals: 2 | Calculated Delay to relate Linear speed: 304
+02:42:53.392 -> Seconds_per_total_length: 1.50 | Measured linear speed in mm/sec: 20.00
+02:42:54.873 -> Seconds_per_total_length: 1.50 | Measured linear speed in mm/sec: 20.00
+02:42:54.873 -> Homing Z-axis..
+02:42:54.873 -> Homing Z-axis Complete
+02:43:10.929 -> ⸮Starting...
+02:43:11.944 -> Homing Z-axis..
+02:43:11.944 -> Homing Z-axis Complete
+02:43:11.944 -> Homing X-axis..
+02:43:13.976 -> Homing X-axis Complete
+02:43:13.976 -> Homing Y-axis..
+02:43:17.727 -> Homing Y-axis complete
+02:43:29.623 -> ////////////////////    Spiral prograate Linear speed: \\\\\\\\\\\\\
+02:43:29.623 -> 
+02:43:29.623 ->  Input Linear speed: 19
+02:43:29.623 ->  Length of the FD: 30 | Number of spirals: 2 | Calculated Delay to relate Linear speed: 320
+02:43:32.202 -> Seconds_per_total_length: 1.58 | Measured linear speed in mm/sec: 19.02
+02:43:33.796 -> Seconds_per_total_length: 1.58 | Measured linear speed in mm/sec: 19.02
+02:43:33.796 -> Homing Z-axis..
+02:43:35.085 -> Homing Z-axis Complete
+02:44:40.966 -> ⸮Starting...
+02:44:41.951 -> Homing Z-axis..
+02:44:41.951 -> Homing Z-axis Complete
+02:44:41.951 -> Homing X-axis..
+02:44:43.208 -> Homing X-axis Complete
+02:44:43.208 -> Homing Y-axis..
+02:44:45.224 -> Homing Y-axis complete
+02:44:56.132 -> ////////////////////    Spiral programte Linear speed: \\\\\\\\\\\\\
+02:44:56.132 -> 
+02:44:56.132 ->  Input Linear speed: 18
+02:44:56.132 ->  Length of the FD: 50 | Number of spirals: 8 | Calculated Delay to relate Linear speed: 338
+02:44:59.903 -> Seconds_per_total_length: 2.77 | Measured linear speed in mm/sec: 18.02
+02:45:02.670 -> Seconds_per_total_length: 2.77 | Measured linear speed in mm/sec: 18.02
+02:45:05.483 -> Seconds_per_total_length: 2.77 | Measured linear speed in mm/sec: 18.02
+02:45:08.232 -> Seconds_per_total_length: 2.77 | Measured linear speed in mm/sec: 18.02
+02:45:11.005 -> Seconds_per_total_length: 2.77 | Measured linear speed in mm/sec: 18.02
+02:45:13.771 -> Seconds_per_total_length: 2.77 | Measured linear speed in mm/sec: 18.02
+02:45:16.567 -> Seconds_per_total_length: 2.77 | Measured linear speed in mm/sec: 18.02
+02:45:19.335 -> Seconds_per_total_length: 2.77 | Measured linear speed in mm/sec: 18.02
+02:45:19.335 -> Homing Z-axis..
+02:45:20.665 -> Homing Z-axis Complete
+
+
